@@ -38,6 +38,7 @@ public class ModItems {
     public static final ItemArmor.ArmorMaterial ARMOR_GREEN_GLASS = EnumHelper.addArmorMaterial("armor_green_glass", Refenerce.modId + ":green_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
     public static final ItemArmor.ArmorMaterial ARMOR_IRON_GLASS = EnumHelper.addArmorMaterial("armor_iron_glass", Refenerce.modId + ":iron_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
     public static final ItemArmor.ArmorMaterial ARMOR_LIGHT_BLUE_GLASS = EnumHelper.addArmorMaterial("armor_light_blue_glass", Refenerce.modId + ":light_blue_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
+    public static final ItemArmor.ArmorMaterial ARMOR_LIME_GLASS = EnumHelper.addArmorMaterial("armor_lime_glass", Refenerce.modId + ":lime_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
 
     public static final ItemArmor.ArmorMaterial ARMOR_CACTUS = EnumHelper.addArmorMaterial("armor_cactus", Refenerce.modId + ":cactus", 3, new int[]{1, 2, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
     public static final ItemArmor.ArmorMaterial ARMOR_LOGOAK = EnumHelper.addArmorMaterial("armor_logoak", Refenerce.modId + ":logoak", 3, new int[]{1, 2, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
@@ -165,6 +166,11 @@ public class ModItems {
     public static final Item LIGHT_BLUE_GLASS_CHESTPLATE = new ArmorBase("light_blue_glass_chestplate", ARMOR_LIGHT_BLUE_GLASS, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);
     public static final Item LIGHT_BLUE_GLASS_LEGGINGS = new ArmorBase("light_blue_glass_leggings", ARMOR_LIGHT_BLUE_GLASS, 2, EntityEquipmentSlot.LEGS, Main.mtleggingstab);
     public static final Item LIGHT_BLUE_GLASS_BOOTS = new ArmorBase("light_blue_glass_boots", ARMOR_LIGHT_BLUE_GLASS, 1, EntityEquipmentSlot.FEET, Main.mtbootstab);
+
+    public static final Item LIME_GLASS_HELMET = new ArmorBase("lime_glass_helmet", ARMOR_LIME_GLASS, 1, EntityEquipmentSlot.HEAD, Main.mthelmettab);
+    public static final Item LIME_GLASS_CHESTPLATE = new ArmorBase("lime_glass_chestplate", ARMOR_LIME_GLASS, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);
+    public static final Item LIME_GLASS_LEGGINGS = new ArmorBase("lime_glass_leggings", ARMOR_LIME_GLASS, 2, EntityEquipmentSlot.LEGS, Main.mtleggingstab);
+    public static final Item LIME_GLASS_BOOTS = new ArmorBase("lime_glass_boots", ARMOR_LIME_GLASS, 1, EntityEquipmentSlot.FEET, Main.mtbootstab);
 
     public static final Item LOGOAK_HELMET = new ArmorBase("logoak_helmet", ARMOR_LOGOAK, 1, EntityEquipmentSlot.HEAD, Main.mthelmettab);
     public static final Item LOGOAK_CHESTPLATE = new ArmorBase("logoak_chestplate", ARMOR_LOGOAK, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);

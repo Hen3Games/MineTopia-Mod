@@ -112,6 +112,11 @@ item.light_blue_glass_chestplate.name=Light Blue Glass Chestplate
 item.light_blue_glass_leggings.name=Light Blue Glass Leggings
 item.light_blue_glass_boots.name=Light Blue Glass Boots
 
+item.lime_glass_helmet.name=Lime Glass Helmet
+item.lime_glass_chestplate.name=Lime Glass Chestplate
+item.lime_glass_leggings.name=Lime Glass Leggings
+item.lime_glass_boots.name=Lime Glass Boots
+
 item.logoak_helmet.name=Oak Log Helmet
 item.logoak_chestplate.name=Oak Log Chestplate
 item.logoak_leggings.name=Oak Log Leggings
