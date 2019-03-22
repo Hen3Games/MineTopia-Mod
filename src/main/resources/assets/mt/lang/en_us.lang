@@ -142,6 +142,11 @@ item.obsidian_chestplate.name=Obsidian Chestplate
 item.obsidian_leggings.name=Obsidian Leggings
 item.obsidian_boots.name=Obsidian Boots
 
+item.orange_glass_helmet.name=Orange Glass Helmet
+item.orange_glass_chestplate.name=Orange Glass Chestplate
+item.orange_glass_leggings.name=Orange Glass Leggings
+item.orange_glass_boots.name=Orange Glass Boots
+
 item.pink_cosmic_helmet.name=Pink Cosmic Helmet
 item.pink_cosmic_chestplate.name=Pink Cosmic Chestplate
 item.pink_cosmic_leggings.name=Pink Cosmic Leggings

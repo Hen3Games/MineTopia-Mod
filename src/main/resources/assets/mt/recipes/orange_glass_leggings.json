@@ -8,10 +8,10 @@
     "key": {
         "H": {
             "item": "minecraft:stained_glass",
-            "data": 0
+            "data": 1
         }
     },
     "result": {
-        "item": "mt:iron_glass_leggings"
+        "item": "mt:orange_glass_leggings"
     }
 }
