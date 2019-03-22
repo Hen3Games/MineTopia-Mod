@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "H H",
+        "H H"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:stained_glass",
+            "data": 7
+        }
+    },
+    "result": {
+        "item": "mt:gray_glass_boots"
+    }
+}

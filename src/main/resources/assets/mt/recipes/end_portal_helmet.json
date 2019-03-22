@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HHH",
+        "H H",
+        "   "
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:end_portal_frame",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "mt:end_portal_helmet"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "H H",
+        "HHH",
+        "HHH"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:water_bucket",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "mt:water_chestplate"
+    }
+}

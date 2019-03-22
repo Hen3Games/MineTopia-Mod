@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HHH",
+        "H H",
+        "   "
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:stained_glass"
+        }
+    },
+    "result": {
+        "item": "mt:iron_glass_helmet"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "H H",
+        "HHH",
+        "HHH"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:end_stone",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "mt:endstone_chestplate"
+    }
+}

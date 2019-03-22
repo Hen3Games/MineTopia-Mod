@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HHH",
+        "H H",
+        "H H"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:brick_block"
+        }
+    },
+    "result": {
+        "item": "mt:bricks_leggings"
+    }
+}

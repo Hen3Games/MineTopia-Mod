@@ -1,0 +1,183 @@
+itemGroup.mtblocktab=MineTopia Blocks
+itemGroup.mtitemstab=MineTopia Items
+itemGroup.mthelmettab=MineTopia Helmet
+itemGroup.mtchestplatetab=MineTopia Chestplate
+itemGroup.mtleggingstab=MineTopia Leggings
+itemGroup.mtbootstab=MineTopia Boots
+
+tile.cosmic_glitter_block.name=Cosmic Glitter Block
+tile.cosmic_glitter_ore.name=Cosmic Glitter Ore
+tile.cosmic_pink_block.name=Cosmic Pink Block
+tile.pink_cosmic_block.name=Pink Cosmic Block
+tile.pink_cosmic_glitter_block.name=Pink Cosmic Glitter Block
+tile.pink_cosmic_glitter_ore.name=Pink Cosmic Glitter Ore
+
+item.cosmic_glitter_ingot.name=Cosmic Glitter Ingot
+item.cosmic_pink_ingot.name=Cosmic Pink Ingot
+item.pink_cosmic_ingot.name=Pink Cosmic Ingot
+item.pink_cosmic_glitter_ingot.name=Pink Cosmic Glitter Ingot
+
+item.bedrock_helmet.name=Bedrock Helmet
+item.bedrock_chestplate.name=Bedrock Chestplate
+item.bedrock_leggings.name=Bedrock Leggings
+item.bedrock_boots.name=Bedrock Boots
+
+item.black_glass_helmet.name=Black Glass Helmet
+item.black_glass_chestplate.name=Black Glass Chestplate
+item.black_glass_leggings.name=Black Glass Leggings
+item.black_glass_boots.name=Black Glass Boots
+
+item.blue_glass_helmet.name=Blue Glass Helmet
+item.blue_glass_chestplate.name=Blue Glass Chestplate
+item.blue_glass_leggings.name=Blue Glass Leggings
+item.blue_glass_boots.name=Blue Glass Boots
+
+item.bricks_helmet.name=Bricks Helmet
+item.bricks_chestplate.name=Bricks Chestplate
+item.bricks_leggings.name=Bricks Leggings
+item.bricks_boots.name=Bricks Boots
+
+item.brown_glass_helmet.name=Brown Glass Helmet
+item.brown_glass_chestplate.name=Brown Glass Chestplate
+item.brown_glass_leggings.name=Brown Glass Leggings
+item.brown_glass_boots.name=Brown Glass Boots
+
+item.cactus_helmet.name=Cactus Helmet
+item.cactus_chestplate.name=Cactus Chestplate
+item.cactus_leggings.name=Cactus Leggings
+item.cactus_boots.name=Cactus Boots
+
+item.cosmic_glitter_helmet.name=Cosmic Glitter Helmet
+item.cosmic_glitter_chestplate.name=Cosmic Glitter Chestplate
+item.cosmic_glitter_leggings.name=Cosmic Glitter Leggings
+item.cosmic_glitter_boots.name=Cosmic Glitter Boots
+
+item.cosmic_pink_helmet.name=Cosmic Pink Helmet
+item.cosmic_pink_chestplate.name=Cosmic Pink Chestplate
+item.cosmic_pink_leggings.name=Cosmic Pink Leggings
+item.cosmic_pink_boots.name=Cosmic Pink Boots
+
+item.cyan_glass_helmet.name=Cyan Glass Helmet
+item.cyan_glass_chestplate.name=Cyan Glass Chestplate
+item.cyan_glass_leggings.name=Cyan Glass Leggings
+item.cyan_glass_boots.name=Cyan Glass Boots
+
+item.darkprismarine_helmet.name=Dark Prismarine Helmet
+item.darkprismarine_chestplate.name=Dark Prismarine Chestplate
+item.darkprismarine_leggings.name=Dark Prismarine Leggings
+item.darkprismarine_boots.name=Dark Prismarine Boots
+
+item.dirt_helmet.name=Dirt Helmet
+item.dirt_chestplate.name=Dirt Chestplate
+item.dirt_leggings.name=Dirt Leggings
+item.dirt_boots.name=Dirt Boots
+
+item.end_portal_helmet.name=End Portal Helmet
+item.end_portal_chestplate.name=End Portal Chestplate
+item.end_portal_leggings.name=End Portal Leggings
+item.end_portal_boots.name=End Portal Boots
+
+item.endstone_helmet.name=End Stone Helmet
+item.endstone_chestplate.name=End Stone Chestplate
+item.endstone_leggings.name=End Stone Leggings
+item.endstone_boots.name=End Stone Boots
+
+item.grain_clay_helmet.name=Grain Clay Helmet
+item.grain_clay_chestplate.name=Grain Clay Chestplate
+item.grain_clay_leggings.name=Grain Clay Leggings
+item.grain_clay_boots.name=Grain Clay Boots
+
+item.gray_glass_helmet.name=Gray Glass Helmet
+item.gray_glass_chestplate.name=Gray Glass Chestplate
+item.gray_glass_leggings.name=Gray Glass Leggings
+item.gray_glass_boots.name=Gray Glass Boots
+
+item.green_glass_helmet.name=Green Glass Helmet
+item.green_glass_chestplate.name=Green Glass Chestplate
+item.green_glass_leggings.name=Green Glass Leggings
+item.green_glass_boots.name=Green Glass Boots
+
+item.ice_helmet.name=Ice Helmet
+item.ice_chestplate.name=Ice Chestplate
+item.ice_leggings.name=Ice Leggings
+item.ice_boots.name=Ice Boots
+
+item.iron_glass_helmet.name=Iron Glass Helmet
+item.iron_glass_chestplate.name=Iron Glass Chestplate
+item.iron_glass_leggings.name=Iron Glass Leggings
+item.iron_glass_boots.name=Iron Glass Boots
+
+item.logoak_helmet.name=Oak Log Helmet
+item.logoak_chestplate.name=Oak Log Chestplate
+item.logoak_leggings.name=Oak Log Leggings
+item.logoak_boots.name=Oak Log Boots
+
+item.magma_helmet.name=Magma Helmet
+item.magma_chestplate.name=Magma Chestplate
+item.magma_leggings.name=Magma Leggings
+item.magma_boots.name=Magma Boots
+
+item.nether_portal_helmet.name=Nether Portal Helmet
+item.nether_portal_chestplate.name=Nether Portal Chestplate
+item.nether_portal_leggings.name=Nether Portal Leggings
+item.nether_portal_boots.name=Nether Portal Boots
+
+item.obsidian_helmet.name=Obsidian Helmet
+item.obsidian_chestplate.name=Obsidian Chestplate
+item.obsidian_leggings.name=Obsidian Leggings
+item.obsidian_boots.name=Obsidian Boots
+
+item.pink_cosmic_helmet.name=Pink Cosmic Helmet
+item.pink_cosmic_chestplate.name=Pink Cosmic Chestplate
+item.pink_cosmic_leggings.name=Pink Cosmic Leggings
+item.pink_cosmic_boots.name=Pink Cosmic Boots
+
+item.pink_cosmic_glitter_helmet.name=Pink Cosmic Glitter Helmet
+item.pink_cosmic_glitter_chestplate.name=Pink Cosmic Glitter Chestplate
+item.pink_cosmic_glitter_leggings.name=Pink Cosmic Glitter Leggings
+item.pink_cosmic_glitter_boots.name=Pink Cosmic Glitter Boots
+
+item.pumpkin_helmet.name=Pumpkin Helmet
+item.pumpkin_chestplate.name=Pumpkin Chestplate
+item.pumpkin_leggings.name=Pumpkin Leggings
+item.pumpkin_boots.name=Pumpkin Boots
+
+item.rusty_obsidian_helmet.name=Rusty Obsidian Helmet
+item.rusty_obsidian_chestplate.name=Rusty Obsidian Chestplate
+item.rusty_obsidian_leggings.name=Rusty Obsidian Leggings
+item.rusty_obsidian_boots.name= Rusty Obsidian Boots
+
+item.smoothwood_helmet.name=Smooth Wood Helmet
+item.smoothwood_chestplate.name=Smooth Wood Chestplate
+item.smoothwood_leggings.name=Smooth Wood Leggings
+item.smoothwood_boots.name=Smooth Wood Boots
+
+item.soul_helmet.name=Soul Sand Helmet
+item.soul_chestplate.name=Soul Sand Chestplate
+item.soul_leggings.name=Soul Sand Leggings
+item.soul_boots.name=Soul Sand Boots
+
+item.special_helmet.name=Leger Helm
+item.special_chestplate.name=Sweather
+item.special_leggings.name=Spijkerbroek
+item.special_boots.name=Nike Sportschoennen
+
+item.stone_helmet.name=Stone Helmet
+item.stone_chestplate.name=Stone Chestplate
+item.stone_leggings.name=Stone Leggings
+item.stone_boots.name=Stone Boots
+
+item.stonebrick_helmet.name=Stone Bricks Helmet
+item.stonebrick_chestplate.name=Stone Bricks Chestplate
+item.stonebrick_leggings.name=Stone Bricks Leggings
+item.stonebrick_boots.name=Stone Bricks Boots
+
+item.stoneslab_helmet.name=Stone Slab Helmet
+item.stoneslab_chestplate.name=Stone Slab Chestplate
+item.stoneslab_leggings.name=Stone Slab Leggings
+item.stoneslab_boots.name=Stone Slab Boots
+
+item.water_helmet.name=Water Helmet
+item.water_chestplate.name=Water Chestplate
+item.water_leggings.name=Water Leggings
+item.water_boots.name=Water Boots

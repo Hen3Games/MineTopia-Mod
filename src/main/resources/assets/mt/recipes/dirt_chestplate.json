@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "H H",
+        "HHH",
+        "HHH"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:dirt",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "mt:dirt_chestplate"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "H H",
+        "H H"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:hardened_clay",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "mt:grain_clay_boots"
+    }
+}

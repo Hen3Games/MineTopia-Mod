@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GHG",
+        "GHG",
+        "GHG"
+    ],
+    "key": {
+        "H": {
+            "item": "mt:pink_cosmic_glitter_ingot"
+        },
+        "G": {
+            "item": "mt:cosmic_glitter_ingot"
+        }
+    },
+    "result": {
+        "item": "mt:pink_cosmic_ingot"
+    }
+}

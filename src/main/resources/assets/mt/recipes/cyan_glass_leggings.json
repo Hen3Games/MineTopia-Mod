@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HHH",
+        "H H",
+        "H H"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:stained_glass",
+            "data": 9
+        }
+    },
+    "result": {
+        "item": "mt:cyan_glass_leggings"
+    }
+}

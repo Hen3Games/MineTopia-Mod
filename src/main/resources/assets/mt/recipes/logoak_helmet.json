@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HHH",
+        "H H",
+        "   "
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:log",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "mt:logoak_helmet"
+    }
+}
