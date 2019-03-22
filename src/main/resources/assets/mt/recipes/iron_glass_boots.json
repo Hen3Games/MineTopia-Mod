@@ -7,11 +7,10 @@
     ],
     "key": {
         "H": {
-            "item": "minecraft:stained_glass",
-            "data": 13
+            "item": "minecraft:stained_glass"
         }
     },
     "result": {
-        "item": "mt:green_glass_boots"
+        "item": "mt:iron_glass_boots"
     }
 }
