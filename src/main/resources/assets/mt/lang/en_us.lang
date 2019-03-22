@@ -122,6 +122,11 @@ item.logoak_chestplate.name=Oak Log Chestplate
 item.logoak_leggings.name=Oak Log Leggings
 item.logoak_boots.name=Oak Log Boots
 
+item.magenta_glass_helmet.name=Magenta Glass Helmet
+item.magenta_glass_chestplate.name=Magenta Glass Chestplate
+item.magenta_glass_leggings.name=Magenta Glass Leggings
+item.magenta_glass_boots.name=Magenta Glass Boots
+
 item.magma_helmet.name=Magma Helmet
 item.magma_chestplate.name=Magma Chestplate
 item.magma_leggings.name=Magma Leggings
