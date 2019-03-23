@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ROE",
+        " G ",
+        "NBP"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "R": {
+            "item": "minecraft:dye",
+            "data": 1
+        },
+        "O": {
+            "item": "minecraft:dye",
+            "data": 14
+        },
+        "E": {
+            "item": "minecraft:dye",
+            "data": 11
+        },
+        "N": {
+            "item": "minecraft:dye",
+            "data": 10
+        },
+        "B": {
+            "item": "minecraft:dye",
+            "data": 12
+        },
+        "P": {
+            "item": "minecraft:dye",
+            "data": 5
+        }
+    },
+    "result": {
+        "item": "mt:rainbow_glass_block"
+    }
+}

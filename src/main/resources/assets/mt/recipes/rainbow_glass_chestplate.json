@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "H H",
+        "HHH",
+        "HHH"
+    ],
+    "key": {
+        "H": {
+            "item": "mt:rainbow_glass_block"
+        }
+    },
+    "result": {
+        "item": "mt:rainbow_glass_chestplate"
+    }
+}

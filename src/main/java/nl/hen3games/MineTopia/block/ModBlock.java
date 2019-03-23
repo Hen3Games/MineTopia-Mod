@@ -25,4 +25,5 @@ public class ModBlock
     public static final Block PINK_COSMIC_BLOCK = new PinkCosmicBlock("pink_cosmic_block", Material.ROCK, Main.mtblocktab);
     public static final Block PINK_COSMIC_GLITTER_BLOCK = new PinkCosmicGlitterBlock("pink_cosmic_glitter_block", Material.ROCK, Main.mtblocktab);
     public static final Block PINK_COSMIC_GLITTER_ORE = new PinkCosmicGlitterOre("pink_cosmic_glitter_ore", Material.ROCK, Main.mtblocktab);
+    public static final Block RAINBOW_GLASS_BLOCK = new RainbowGlassBlock("rainbow_glass_block", Material.GLASS, Main.mtblocktab);
 }

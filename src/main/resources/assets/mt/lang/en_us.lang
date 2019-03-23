@@ -11,7 +11,7 @@ tile.cosmic_pink_block.name=Cosmic Pink Block
 tile.pink_cosmic_block.name=Pink Cosmic Block
 tile.pink_cosmic_glitter_block.name=Pink Cosmic Glitter Block
 tile.pink_cosmic_glitter_ore.name=Pink Cosmic Glitter Ore
-tile.rainbow_glass_block.name=Rainbow Glass Block
+tile.rainbow_glass_block.name=Rainbow Glass
 
 item.cosmic_glitter_ingot.name=Cosmic Glitter Ingot
 item.cosmic_pink_ingot.name=Cosmic Pink Ingot
@@ -172,6 +172,11 @@ item.pumpkin_helmet.name=Pumpkin Helmet
 item.pumpkin_chestplate.name=Pumpkin Chestplate
 item.pumpkin_leggings.name=Pumpkin Leggings
 item.pumpkin_boots.name=Pumpkin Boots
+
+item.rainbow_glass_helmet.name=Rainbow Glass Helmet
+item.rainbow_glass_chestplate.name=Rainbow Glass Chestplate
+item.rainbow_glass_leggings.name=Rainbow Glass Leggings
+item.rainbow_glass_boots.name=Rainbow Glass Boots
 
 item.rusty_obsidian_helmet.name=Rusty Obsidian Helmet
 item.rusty_obsidian_chestplate.name=Rusty Obsidian Chestplate
