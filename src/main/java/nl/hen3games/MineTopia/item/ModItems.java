@@ -41,6 +41,7 @@ public class ModItems {
     public static final ItemArmor.ArmorMaterial ARMOR_LIME_GLASS = EnumHelper.addArmorMaterial("armor_lime_glass", Refenerce.modId + ":lime_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
     public static final ItemArmor.ArmorMaterial ARMOR_MAGENTA_GLASS = EnumHelper.addArmorMaterial("armor_magenta_glass", Refenerce.modId + ":magenta_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
     public static final ItemArmor.ArmorMaterial ARMOR_ORANGE_GLASS = EnumHelper.addArmorMaterial("armor_orange_glass", Refenerce.modId + ":orange_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
+    public static final ItemArmor.ArmorMaterial ARMOR_PINK_GLASS = EnumHelper.addArmorMaterial("armor_pink_glass", Refenerce.modId + ":pink_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
 
     public static final ItemArmor.ArmorMaterial ARMOR_CACTUS = EnumHelper.addArmorMaterial("armor_cactus", Refenerce.modId + ":cactus", 3, new int[]{1, 2, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
     public static final ItemArmor.ArmorMaterial ARMOR_LOGOAK = EnumHelper.addArmorMaterial("armor_logoak", Refenerce.modId + ":logoak", 3, new int[]{1, 2, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
@@ -213,6 +214,11 @@ public class ModItems {
     public static final Item PINK_COSMIC_GLITTER_CHESTPLATE = new ArmorBase("pink_cosmic_glitter_chestplate", ARMOR_PINK_COSMIC_GLITTER, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);
     public static final Item PINK_COSMIC_GLITTER_LEGGINGS = new ArmorBase("pink_cosmic_glitter_leggings", ARMOR_PINK_COSMIC_GLITTER, 2, EntityEquipmentSlot.LEGS, Main.mtleggingstab);
     public static final Item PINK_COSMIC_GLITTER_BOOTS = new ArmorBase("pink_cosmic_glitter_boots", ARMOR_PINK_COSMIC_GLITTER, 1, EntityEquipmentSlot.FEET, Main.mtbootstab);
+
+    public static final Item PINK_GLASS_HELMET = new ArmorBase("pink_glass_helmet", ARMOR_PINK_GLASS, 1, EntityEquipmentSlot.HEAD, Main.mthelmettab);
+    public static final Item PINK_GLASS_CHESTPLATE = new ArmorBase("pink_glass_chestplate", ARMOR_PINK_GLASS, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);
+    public static final Item PINK_GLASS_LEGGINGS = new ArmorBase("pink_glass_leggings", ARMOR_PINK_GLASS, 2, EntityEquipmentSlot.LEGS, Main.mtleggingstab);
+    public static final Item PINK_GLASS_BOOTS = new ArmorBase("pink_glass_boots", ARMOR_PINK_GLASS, 1, EntityEquipmentSlot.FEET, Main.mtbootstab);
 
     //public static final Item PUMPKIN_HELMET = new ArmorBase("pumpkin_helmet", ARMOR_PUMPKIN, 1, EntityEquipmentSlot.HEAD, Main.mthelmettab);
     //public static final Item PUMPKIN_CHESTPLATE = new ArmorBase("pumpkin_chestplate", ARMOR_PUMPKIN, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);
