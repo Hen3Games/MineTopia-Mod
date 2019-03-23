@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "H H",
+        "HHH",
+        "HHH"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:stained_glass",
+            "data": 10
+        }
+    },
+    "result": {
+        "item": "mt:purple_glass_chestplate"
+    }
+}

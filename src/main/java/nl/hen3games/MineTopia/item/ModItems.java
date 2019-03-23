@@ -42,6 +42,8 @@ public class ModItems {
     public static final ItemArmor.ArmorMaterial ARMOR_MAGENTA_GLASS = EnumHelper.addArmorMaterial("armor_magenta_glass", Refenerce.modId + ":magenta_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
     public static final ItemArmor.ArmorMaterial ARMOR_ORANGE_GLASS = EnumHelper.addArmorMaterial("armor_orange_glass", Refenerce.modId + ":orange_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
     public static final ItemArmor.ArmorMaterial ARMOR_PINK_GLASS = EnumHelper.addArmorMaterial("armor_pink_glass", Refenerce.modId + ":pink_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
+    public static final ItemArmor.ArmorMaterial ARMOR_PURPLE_GLASS = EnumHelper.addArmorMaterial("armor_purple_glass", Refenerce.modId + ":purple_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
+    public static final ItemArmor.ArmorMaterial ARMOR_RAINBOW_GLASS = EnumHelper.addArmorMaterial("armor_rainbow_glass", Refenerce.modId + ":rainbow_glass", 2, new int[]{1, 1, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
 
     public static final ItemArmor.ArmorMaterial ARMOR_CACTUS = EnumHelper.addArmorMaterial("armor_cactus", Refenerce.modId + ":cactus", 3, new int[]{1, 2, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
     public static final ItemArmor.ArmorMaterial ARMOR_LOGOAK = EnumHelper.addArmorMaterial("armor_logoak", Refenerce.modId + ":logoak", 3, new int[]{1, 2, 1, 1}, 10, SoundEvents.ITEM_ARMOR_EQUIP_CHAIN, 0.0F);
@@ -220,10 +222,20 @@ public class ModItems {
     public static final Item PINK_GLASS_LEGGINGS = new ArmorBase("pink_glass_leggings", ARMOR_PINK_GLASS, 2, EntityEquipmentSlot.LEGS, Main.mtleggingstab);
     public static final Item PINK_GLASS_BOOTS = new ArmorBase("pink_glass_boots", ARMOR_PINK_GLASS, 1, EntityEquipmentSlot.FEET, Main.mtbootstab);
 
+    public static final Item PURPLE_GLASS_HELMET = new ArmorBase("purple_glass_helmet", ARMOR_PURPLE_GLASS, 1, EntityEquipmentSlot.HEAD, Main.mthelmettab);
+    public static final Item PURPLE_GLASS_CHESTPLATE = new ArmorBase("purple_glass_chestplate", ARMOR_PURPLE_GLASS, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);
+    public static final Item PURPLE_GLASS_LEGGINGS = new ArmorBase("purple_glass_leggings", ARMOR_PURPLE_GLASS, 2, EntityEquipmentSlot.LEGS, Main.mtleggingstab);
+    public static final Item PURPLE_GLASS_BOOTS = new ArmorBase("purple_glass_boots", ARMOR_PURPLE_GLASS, 1, EntityEquipmentSlot.FEET, Main.mtbootstab);
+
     //public static final Item PUMPKIN_HELMET = new ArmorBase("pumpkin_helmet", ARMOR_PUMPKIN, 1, EntityEquipmentSlot.HEAD, Main.mthelmettab);
     //public static final Item PUMPKIN_CHESTPLATE = new ArmorBase("pumpkin_chestplate", ARMOR_PUMPKIN, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);
     //public static final Item PUMPKIN_LEGGINGS = new ArmorBase("pumpkin_leggings", ARMOR_PUMPKIN, 2, EntityEquipmentSlot.LEGS, Main.mtleggingstab);
     //public static final Item PUMPKIN_BOOTS = new ArmorBase("pumpkin_boots", ARMOR_PUMPKIN, 1, EntityEquipmentSlot.FEET, Main.mtbootstab);
+
+    public static final Item RAINBOW_GLASS_HELMET = new ArmorBase("rainbow_glass_helmet", ARMOR_RAINBOW_GLASS, 1, EntityEquipmentSlot.HEAD, Main.mthelmettab);
+    public static final Item RAINBOW_GLASS_CHESTPLATE = new ArmorBase("rainbow_glass_chestplate", ARMOR_RAINBOW_GLASS, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);
+    public static final Item RAINBOW_GLASS_LEGGINGS = new ArmorBase("rainbow_glass_leggings", ARMOR_RAINBOW_GLASS, 2, EntityEquipmentSlot.LEGS, Main.mtleggingstab);
+    public static final Item RAINBOW_GLASS_BOOTS = new ArmorBase("rainbow_glass_boots", ARMOR_RAINBOW_GLASS, 1, EntityEquipmentSlot.FEET, Main.mtbootstab);
 
     public static final Item RUSTY_OBSIDIAN_HELMET = new ArmorBase("rusty_obsidian_helmet", ARMOR_RUSTY_OBSIDIAN, 1, EntityEquipmentSlot.HEAD, Main.mthelmettab);
     public static final Item RUSTY_OBSIDIAN_CHESTPLATE = new ArmorBase("rusty_obsidian_chestplate", ARMOR_RUSTY_OBSIDIAN, 1, EntityEquipmentSlot.CHEST, Main.mtchestplatetab);
